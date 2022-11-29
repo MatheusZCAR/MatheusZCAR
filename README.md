@@ -43,7 +43,7 @@
   
   <div align="center">
 <br><p align="centre"><b>Contador de Visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusZC}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusZCAR}/count.svg" /></p> 
 <br></div>
   
   ![Snake animation](https://github.com/MatheusZCAR/MatheusZCAR/blob/output/github-contribution-grid-snake.svg)
